@@ -1,8 +1,8 @@
 # Image LAB
 #### .PNM Image Editor
-#### Image Lab lets you modify .pnm images. It has functions like RGB extraction, color inversion and more...
+##### Image Lab lets you modify .pnm images. It has functions like RGB extraction, color inversion and more...
 
-LANG : Java (JDK 15)
+Language : Java
 
 ##### Last version : **1.1.8.0** (*Raven*)
 
