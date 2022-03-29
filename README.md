@@ -1,24 +1,25 @@
 # Image LAB
-#### Elaboratore immagini .pnm
+#### .PNM Image Editor
 Image Lab lets you modify .pnm images. It has functions like RGB extraction, color inversion and more...
 
 LANG : Java (JDK 15)
 
 ##### Last version : **1.1.8.0** (*Raven*)
 
-Questo programma consente l'elaborazione delle [immagini PNM](https://people.math.sc.edu/Burkardt/data/pnm/pnm.html).
-Sono disponibili le seguenti funzioni : 
 
-- estrazione componente rossa 🔴
-- estrazione componente verde 🟢
-- estrazione componente blu 🔵
-- conversione in sfumature di grigio
-- inversione colori
-- inversione componente rossa e blu 🔴 🔄 🔵
-- creazione immagine vuota (default : ⚫ background)
-- sbiancamento immagine ⚪
-- disegna cerchio
-- [filtro di Sobel](https://en.wikipedia.org/wiki/Sobel_operator)
+This program allows the processing of [PNM images](https://people.math.sc.edu/Burkardt/data/pnm/pnm.html).
+The following functions are available:
+
+- red component extraction 🔴
+- green component extraction   
+- blue component extraction 🔵
+- conversion to shades of gray
+- color inversion
+- red and blue component inversion 🔴 🔄 🔵
+- empty image creation (default: ⚫ background)
+- image whitening ⚪
+- draw circle
+- [Sobel's filter](https://en.wikipedia.org/wiki/Sobel_operator)
 
 
 ![image](https://user-images.githubusercontent.com/59441403/113778598-e918bd80-972c-11eb-959a-61618612bcbd.png)
