@@ -1,5 +1,6 @@
 # Image LAB
 #### Elaboratore immagini .pnm
+Image Lab lets you modify .pnm images. It has functions like RGB extraction, color inversion and more...
 
 LANG : Java (JDK 15)
 
